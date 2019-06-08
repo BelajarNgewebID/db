@@ -1,0 +1,19 @@
+{
+    "name": "bni/db",
+    "description": "SQL Database Query Builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Belajar Ngeweb ID",
+            "email": "halobni@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "BNI\\": "src\\DB\\"
+        }
+    },
+    "require": {}
+}
